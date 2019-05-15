@@ -1,0 +1,10 @@
+*.iml
+.setting/
+.idea/
+target/
+generated/
+
+
+pom.xml.versionsBackup
+
+.DS_Store
